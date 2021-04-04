@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @BusraDogan
+- :computer: I’m a Software Engineer in Test
 - 👀 I’m interested in Software Engineering and Data Science
 - 🌱 I’m currently learning Front-end Development
 - 📫 How to reach me ;
